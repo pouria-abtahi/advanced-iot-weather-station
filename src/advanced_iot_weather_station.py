@@ -1,6 +1,6 @@
 #
 # File Name: Advanced_iot_weather_station.py  
-# Authors: Pouria Abtahi, Baran Heidari  
+# Authors: Pouria Abtahi  
 # Date: November 15, 2024  
 # Course: TPJ655  
 ## Program Description:
