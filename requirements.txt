@@ -1,0 +1,6 @@
+adafruit-circuitpython-dht
+adafruit-circuitpython-charlcd
+requests
+spidev
+pyserial
+RPi.GPIO
