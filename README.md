@@ -8,7 +8,7 @@ The system also supports remote monitoring through the Blynk IoT platform and se
 
 ## Why I Built This Project
 
-I built this project as part of my Computer Engineering Technology program at Seneca Polytechnic (WCM555 – Wireless Communication & Microcontrollers), as a two-person team project. I did most of the hardware design and software work. The goal was to combine hardware, software, sensors, communication modules, and IoT technology into one working system.
+I built this project as part of my Computer Engineering Technology program at Seneca Polytechnic (WCM555 Wireless Communication & Microcontrollers), as a two-person team project. I did most of the hardware design and software work. The goal was to combine hardware, software, sensors, communication modules, and IoT technology into one working system.
 
 This project helped me apply both my computer engineering technology background and my mechanical engineering knowledge in a practical hardware/software project.
 
